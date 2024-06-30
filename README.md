@@ -31,7 +31,7 @@ The Habit Tracking App is designed to help users manage and track their daily an
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/habit-tracking-app.git
+    git clone https://github.com/ieva-n/A-Habit-Tracking-App.git
     cd habit-tracking-app
     ```
 
