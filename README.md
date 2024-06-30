@@ -35,12 +35,6 @@ The Habit Tracking App is designed to help users manage and track their daily an
     cd habit-tracking-app
     ```
 
-2. Install the required packages:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ### Usage
 
 1. Define your habits by creating instances of the `Habit` class.
