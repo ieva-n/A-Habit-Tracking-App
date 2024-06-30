@@ -32,7 +32,7 @@ The Habit Tracking App is designed to help users manage and track their daily an
 
     ```sh
     git clone https://github.com/ieva-n/A-Habit-Tracking-App.git
-    cd a-habit-tracking-app
+    cd A-Habit-Tracking-App
     ```
 
 ### Usage
