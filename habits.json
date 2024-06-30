@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Read a book",
+        "description": "Read one chapter of a book.",
+        "frequency": "WEEKLY",
+        "created": "2024-06-03T11:09:42.227116",
+        "marked_dates": [
+            "2024-06-03T11:15:38.473126",
+            "2024-06-16T11:15:38.473126",
+            "2024-06-23T11:15:38.473126",
+            "2024-06-30T11:15:38.473126"
+        ]
+    },
+    {
+        "name": "Eat vegetables",
+        "description": "Eat at least 250 grams of vegetables.",
+        "frequency": "DAILY",
+        "created": "2024-06-03T11:11:08.896527",
+        "marked_dates": [
+            "2024-06-20T11:15:42.884809",
+            "2024-06-23T11:15:42.884809",
+            "2024-06-27T11:15:42.884809",
+            "2024-06-28T11:15:42.884809",
+            "2024-06-29T11:15:42.884809",
+            "2024-06-30T11:15:42.884809"
+        ]
+    },
+    {
+        "name": "Drink water",
+        "description": "Drink at least two liters of water.",
+        "frequency": "DAILY",
+        "created": "2024-06-30T11:12:21.277601",
+        "marked_dates": [
+            "2024-06-23T11:15:42.884809",
+            "2024-06-24T11:15:42.884809",
+            "2024-06-25T11:15:42.884809",
+            "2024-06-26T11:15:42.884809",
+            "2024-06-27T11:15:42.884809",
+            "2024-06-30T11:15:42.884809"
+        ]
+    },
+    {
+        "name": "Clean a house",
+        "description": "Make a house clean.",
+        "frequency": "WEEKLY",
+        "created": "2024-06-30T11:13:29.053315",
+        "marked_dates": [
+            "2024-06-30T11:15:49.699840"
+        ]
+    },
+    {
+        "name": "Do yoga",
+        "description": "Do yoga exercises.",
+        "frequency": "DAILY",
+        "created": "2024-06-30T11:13:56.168694",
+        "marked_dates": [
+            "2024-06-30T11:15:52.952825"
+        ]
+    }
+]
